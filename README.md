@@ -27,4 +27,4 @@ It uses TF-IDF Vectorization and Cosine Similarity to match resumes with a job d
 - Matching percentage for each resume
 
 ## Author
-Your Name
+Aaditya Sharma 
