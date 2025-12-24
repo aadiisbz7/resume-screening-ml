@@ -1,4 +1,4 @@
-# AI Resume Screening System (Machine Learning)
+# *BASIC* AI Resume Screening System (Machine Learning)
 
 This project is a simple Machine Learning-based resume screening system.
 It uses TF-IDF Vectorization and Cosine Similarity to match resumes with a job description.
